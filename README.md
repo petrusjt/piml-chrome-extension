@@ -18,4 +18,10 @@ If it renders correctly, then the extension is working.
 
 ## Note
 
+### Warning
+
+This extension can't load javascript, so for javascript you still have to use the python script in the above mentioned repository.
+
+
+###
 The HTMLNode and HTMLTree classes are ports of the classes found in [htmltree.py file in the above mentioned repository](https://github.com/petrusjt/piml/blob/main/htmltree.py).
