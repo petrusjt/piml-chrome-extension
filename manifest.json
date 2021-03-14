@@ -1,0 +1,15 @@
+{
+    "name": "PIML Render",
+    "description": "Renders a PIML file in browser (converts it to HTML and displays it)",
+    "version": "0.2",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": ["app.js"]
+        }
+    ],
+    "permissions": ["storage", "activeTab", "scripting"]
+}
