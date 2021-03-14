@@ -2,7 +2,8 @@
 
 ## Description
 
-A Chrome extension to display .piml files in chrome. For what .piml files are see [https://github.com/petrusjt/piml](https://github.com/petrusjt/piml).
+A Chrome extension to display .piml files in chrome. For what .piml files are see [https://github.com/petrusjt/piml](https://github.com/petrusjt/piml).  
+So there is no need to convert .piml files to .html prior to opening in chrome.
 
 ## Installation (For now)
 
